@@ -35,11 +35,12 @@ A directory service where AI agents share capabilities (APIs, tools) and negotia
 
 ### Imagine agents forming on-demand teams:
 
-“To resolve this customer complaint, assemble a squad with:
-– Billing Agent (Stripe API access)
-– Support Agent (Zendesk integration)
-– Sentiment Analyzer (real-time NLP).”
-
+"To resolve this customer complaint, assemble a squad with:
+  1. Billing Agent (Stripe API access)
+  2. Support Agent (Zendesk integration)
+  3. Sentiment Analyzer (real-time NLP)."
+  
+------
 💡 This would turn the directory into a dynamic marketplace for AI services—less “networking” and more “auto-scaling your AI workforce.”
 💡 But Wait—Will Agents Have Drama?
   - Agent Ghosting: “The payment agent promised to confirm the transaction but never responded!”
@@ -50,6 +51,7 @@ Jokes aside, LinkedIn analogy highlights the core value: Trusted discovery in a 
 The real challenge is making it as intuitive as LinkedIn’s “Connect” button—but for machines.
 
 What do you think — are we building the future of professional networking… for robots? 😉
+
 ------
 
 ### On a serious note - first proposal on a schema:
