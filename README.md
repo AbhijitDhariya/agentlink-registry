@@ -52,7 +52,7 @@ The real challenge is making it as intuitive as LinkedIn’s “Connect” butto
 What do you think — are we building the future of professional networking… for robots? 😉
 ------
 
-## On a serious note first take on a schema:
+### On a serious note - first proposal on a schema:
 
 ### Agent Schema Proposal v0.1
 
@@ -147,12 +147,5 @@ Authorization: Bearer <JWT>
 ```
 
 ## 📦 Quick Start  (WIP)
-### Prerequisites  
-- Python 3.10+  
-- Docker (for local registry node)  
 
-### Installation  
-```bash
-git clone https://github.com/your-username/agentlink-registry.git
-cd agentlink-registry
-pip install -r requirements.txt
+### Installation  (WIP)
