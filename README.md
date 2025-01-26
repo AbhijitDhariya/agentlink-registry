@@ -148,4 +148,4 @@ Authorization: Bearer <JWT>
 
 ## 📦 Quick Start  (WIP)
 
-### Installation  (WIP)
+## Installation  (WIP)
